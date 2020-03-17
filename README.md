@@ -31,8 +31,7 @@
  <p>добалены javascript для поиска.</p>
   <p>Таблицы базы данных: pictures, tags, picture_tag. (структура таблиц в файле finaltask.sql)
  Отношение многие к многим поддерживается в приложении </p>
-  
-  [finaltask](https://github.com/constalink35/php_FinalTask)
+ 
   
   Работу сервиса можно посмотреть [здесь](http://mytestkvl.c1.biz/)
 <hr>  
