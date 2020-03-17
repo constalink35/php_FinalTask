@@ -28,7 +28,7 @@
   <li>show.blade.php</li>
  </ul> 
  <p>добавлена локализация lang/ru/validation</p>
- <p>добалены javascript для поиска.</p>
+ <p>добавлен javascript для поиска.</p>
   <p>Таблицы базы данных: pictures, tags, picture_tag. (структура таблиц в файле finaltask.sql)
  Отношение многие к многим поддерживается в приложении </p>
  
