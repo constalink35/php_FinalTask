@@ -21,14 +21,17 @@
   
   <p> Представления </p>
 <ul>
-   <li>app.blade.php</li>
-  <li>upload.blade.php</li>
-  <li>edit.blade.php</li>
-  <li>index.blade.php</li>
-  <li>show.blade.php</li>
+   <li>app.blade.php - основной шаблон</li> 
+  <li>upload.blade.php шаблон для загрузки</li>
+  <li>edit.blade.php шаблон для редактироания </li>
+  <li>index.blade.php шаблон списка изображений</li>
+  <li>show.blade.php просмотр отдельного изображения</li>
  </ul> 
  <p>добавлена локализация lang/ru/validation</p>
- <p>добавлен javascript для поиска.</p>
+ Изменены роуты: web.php
+ <p>добавлен javascript для поиска по тегам(search.js)
+  и отображения множественного выбора файлов (main.js )</p>
+ 
   <p>Таблицы базы данных: pictures, tags, picture_tag. (структура таблиц в файле finaltask.sql)
  Отношение многие к многим поддерживается в приложении </p>
  
