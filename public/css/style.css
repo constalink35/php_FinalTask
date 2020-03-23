@@ -1,0 +1,23 @@
+.navbar {
+    margin-bottom: 15px;
+}
+
+
+.card-img-top {
+    padding: 5px 5px;
+
+}
+
+.card {
+    margin-bottom: 10px;
+}
+.card-img-big {
+    height: 80%;
+}
+
+.card-max {
+    width: 500px;
+    margin:0 auto;
+
+}
+
